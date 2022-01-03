@@ -66,3 +66,4 @@ Example : Authorization details
 End Point Request URL can be constructed as below
 Base URL/resource/(Query/Path)Parameters
 
+abcd
